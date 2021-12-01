@@ -290,7 +290,7 @@ function DarkLib:Window()
             end
         end)        
     end    
-    BloxcrusherBanner()
+   
 
 	MakeDraggable(DraggableFrame, MainFrame)
 	local Win = {}
